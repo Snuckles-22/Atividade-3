@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(90deg, rgb(72, 72, 255), aqua, rgb(72, 72, 255)) ;
+}
+.centralizado {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
